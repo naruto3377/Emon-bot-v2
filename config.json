@@ -1,5 +1,5 @@
 {
-   "author": ["𝐄𝐦𝐨𝐧 𝐛𝐛'𝐳 "],
+   "author": ["𝐄𝐦𝐨𝐧 𝐛𝐛𝐳 "],
     "facebookAccount": {
     "email": "Shimanto3200@gmail.com",
     "password": "",
@@ -25,7 +25,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "✨𝐌𝐈𝐊𝐔 𝐁𝐁'𝐙 👀💢",
+  "nickNameBot": "✨𝐌𝐈𝐊𝐔 𝐁𝐁𝐙 👀💢",
   "prefix": "~",
   "database": {
     "type": "sqlite",
